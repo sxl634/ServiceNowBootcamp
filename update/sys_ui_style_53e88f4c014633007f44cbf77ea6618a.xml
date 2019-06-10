@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>item_type</element>
+        <name>x_cdltd_loaner_req_loaner_request</name>
+        <style>background-color:PeachPuff;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-10 15:31:36</sys_created_on>
+        <sys_id>53e88f4c014633007f44cbf77ea6618a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req_loaner_request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">4c0caa04014633007f44cbf77ea66133</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">4c0caa04014633007f44cbf77ea66133</sys_scope>
+        <sys_update_name>sys_ui_style_53e88f4c014633007f44cbf77ea6618a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-10 15:45:03</sys_updated_on>
+        <value>cmbd_ci_computer</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=53e88f4c014633007f44cbf77ea6618a"/>
+</record_update>
