@@ -6,36 +6,36 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint>List of all Loaner Request records in the database</hint>
+        <hint/>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Loaner Requests</mobile_title>
+        <mobile_title>Loaner Tasks</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_cdltd_loaner_req_loaner_request</name>
-        <order>200</order>
+        <name>x_cdltd_loaner_req_loaner_task</name>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_cdltd_loaner_req.admin</roles>
+        <roles>x_cdltd_loaner_req.loaner_request_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-06-10 13:41:15</sys_created_on>
+        <sys_created_on>2019-06-11 15:01:49</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>17df2684014633007f44cbf77ea66180</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_id>6deb4c2c01ca33007f44cbf77ea6613b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Tasks</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">4c0caa04014633007f44cbf77ea66133</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">4c0caa04014633007f44cbf77ea66133</sys_scope>
-        <sys_update_name>sys_app_module_17df2684014633007f44cbf77ea66180</sys_update_name>
+        <sys_update_name>sys_app_module_6deb4c2c01ca33007f44cbf77ea6613b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-11 13:16:49</sys_updated_on>
+        <sys_updated_on>2019-06-11 15:01:49</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Loaner Tasks</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

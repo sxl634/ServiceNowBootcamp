@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>e686dc60010e33007f44cbf77ea661be</id>
+        <name>Loaner Laptop</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 15:48:19</sys_created_on>
+        <sys_id>6286dc60010e33007f44cbf77ea661bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Laptop</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">4c0caa04014633007f44cbf77ea66133</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">4c0caa04014633007f44cbf77ea66133</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_6286dc60010e33007f44cbf77ea661bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 15:48:19</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
