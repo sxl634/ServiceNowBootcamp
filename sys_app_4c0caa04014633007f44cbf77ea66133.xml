@@ -24,14 +24,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-10 13:24:21</sys_created_on>
         <sys_id>4c0caa04014633007f44cbf77ea66133</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-11 10:36:41</sys_updated_on>
+        <sys_updated_on>2019-06-11 16:17:16</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.1.0</version>
+        <version>3.0.0</version>
     </sys_app>
 </record_update>
