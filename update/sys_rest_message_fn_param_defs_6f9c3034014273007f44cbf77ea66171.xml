@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>country</name>
+        <order>200</order>
+        <rest_message_function display_value="Default GET">f56cbcf0014273007f44cbf77ea66123</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 13:14:24</sys_created_on>
+        <sys_id>6f9c3034014273007f44cbf77ea66171</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>country</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">4c0caa04014633007f44cbf77ea66133</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">4c0caa04014633007f44cbf77ea66133</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_6f9c3034014273007f44cbf77ea66171</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 13:14:24</sys_updated_on>
+        <value>${country}</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>
